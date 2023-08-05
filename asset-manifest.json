@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tiffahahahu7/pomodoro-timer/static/css/main.0b583c8d.css",
+    "main.js": "/tiffahahahu7/pomodoro-timer/static/js/main.9d73ec31.js",
+    "static/media/forest.jpg": "/tiffahahahu7/pomodoro-timer/static/media/forest.7835900cfc59913b07d7.jpg",
+    "static/media/Alarm_clock.mp3": "/tiffahahahu7/pomodoro-timer/static/media/Alarm_clock.cec60048d584cfd1f705.mp3",
+    "index.html": "/tiffahahahu7/pomodoro-timer/index.html",
+    "main.0b583c8d.css.map": "/tiffahahahu7/pomodoro-timer/static/css/main.0b583c8d.css.map",
+    "main.9d73ec31.js.map": "/tiffahahahu7/pomodoro-timer/static/js/main.9d73ec31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b583c8d.css",
+    "static/js/main.9d73ec31.js"
+  ]
+}
