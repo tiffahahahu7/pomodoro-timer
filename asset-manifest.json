@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.22d634b8.css",
-    "main.js": "./static/js/main.4db983b1.js",
-    "static/media/forest.jpg": "./static/media/forest.7835900cfc59913b07d7.jpg",
-    "static/media/Alarm_clock.mp3": "./static/media/Alarm_clock.cec60048d584cfd1f705.mp3",
-    "index.html": "./index.html",
-    "main.22d634b8.css.map": "./static/css/main.22d634b8.css.map",
-    "main.4db983b1.js.map": "./static/js/main.4db983b1.js.map"
+    "main.css": "/pomodoro-timer/static/css/main.d25bf8bf.css",
+    "main.js": "/pomodoro-timer/static/js/main.c28b9f9e.js",
+    "static/media/forest.jpg": "/pomodoro-timer/static/media/forest.7835900cfc59913b07d7.jpg",
+    "static/media/Alarm_clock.mp3": "/pomodoro-timer/static/media/Alarm_clock.cec60048d584cfd1f705.mp3",
+    "index.html": "/pomodoro-timer/index.html",
+    "main.d25bf8bf.css.map": "/pomodoro-timer/static/css/main.d25bf8bf.css.map",
+    "main.c28b9f9e.js.map": "/pomodoro-timer/static/js/main.c28b9f9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.22d634b8.css",
-    "static/js/main.4db983b1.js"
+    "static/css/main.d25bf8bf.css",
+    "static/js/main.c28b9f9e.js"
   ]
 }
